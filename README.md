@@ -1,1 +1,1 @@
-sorting algorithms
+orting algorithms
